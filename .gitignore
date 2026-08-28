@@ -1,0 +1,11 @@
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.DS_Store
+networkTraffic.csv
+assignment2.pdf
+25850377RW441assignment2.docx
+features.csv
+attack_category_map.csv
